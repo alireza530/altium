@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VCC_OUT Pin=T1-3
+Added Pin To Net: NetName=VCC_OUT Pin=T1-3
+Added Pin To Net: NetName=VCC_OUT Pin=T2-3
+Added Pin To Net: NetName=VCC_OUT Pin=T2-3
+Added Member To Class: ClassName=Power supply Member=Component DB 10A

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=d15 Pin=U5-1
+Added Pin To Net: NetName=VCC_OUT Pin=U5-1
+Added Member To Class: ClassName=Power supply Member=Component DB 10A

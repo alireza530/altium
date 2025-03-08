@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Vdc Pin=OUTPUT-1
+Added Pin To Net: NetName=Vo Pin=OUTPUT-1
+Change Net Name : Old Net Name=VCC New Net Name=VCC-board
+Added Member To Class: ClassName=Power supply Member=Component DB 10A
