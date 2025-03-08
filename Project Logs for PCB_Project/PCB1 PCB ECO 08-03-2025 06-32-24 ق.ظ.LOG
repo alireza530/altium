@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=Vw Pin=K1-1
+Removed Pin From Net: NetName=Vo Pin=K1-2
+Removed Pin From Net: NetName=NetD1_2 Pin=K1-4
+Removed Pin From Net: NetName=VCC Pin=K1-5
+Removed Member From Class: ClassName=Power supply Member=K1
+Added Component: Designator=K?(REL_SPDT_5_2216)
+Add component (AddParameter): Name = "MANF"; Value = "OMRON, IDEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "G2RL-1-E-DC12, RJ1V-C-D12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "12V, 33mA, 360Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "16A, 250VAC/24VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "3$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RELAY_SPDT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vw Pin=K?-1
+Added Pin To Net: NetName=Vo Pin=K?-2
+Added Pin To Net: NetName=VCC Pin=K?-4
+Added Pin To Net: NetName=NetD1_2 Pin=K?-5
+Added Member To Class: ClassName=Power supply Member=Component DB 10A
+Added Member To Class: ClassName=Power supply Member=Component K? RELAY_SPDT
+Added Room: Name=Power supply
