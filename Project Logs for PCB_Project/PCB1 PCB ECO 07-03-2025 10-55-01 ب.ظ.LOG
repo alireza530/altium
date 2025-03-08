@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=FAN-2
+Removed Member From Class: ClassName=Power supply Member=FAN
+Added Component: Designator=FAN1(TBG_2)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "CONN_TB2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=FAN1-1
+Added Pin To Net: NetName=NetFAN1_2 Pin=FAN1-2
+Added Pin To Net: NetName=NetFAN1_2 Pin=Ta2-2
+Added Net: Name=NetFAN1_2
+Added Member To Class: ClassName=Power supply Member=Component DB 10A
+Added Member To Class: ClassName=Power supply Member=Component FAN1 FAN
